@@ -4,8 +4,8 @@
 
 import pandas as pd
 data = [1, 2, 3, 4, 5]
-series = pd.Series(data)
-print(series)
+series = pd.Series(data)# we have passed list but we can pass dictionary also
+print(series)# it will print the index value also
 
 # 2
 
@@ -23,6 +23,7 @@ print(mean_value)
 # 3
 
 import pandas as pd
+#in dictionary we will have the key as index
 # Creating a DataFrame
 data = {
     'Name': ['Alice', 'Bob', 'Charlie'],
