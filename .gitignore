@@ -2,3 +2,12 @@ __pycache__/
 pl_pdfs/
 tempCodeRunnerFile.py
 /hc-lab/
+/mak.py
+*.csv
+*.xlsx
+*.wav
+*.mp4
+*.db
+*.txt
+*.html
+*.json
